@@ -27,4 +27,8 @@ contract ZirconToken {
         return true;
     }
 
+     // function mint(address _to, uint256 _amount)
+
+     // function approve(address _spender, uint256 _amount)
+
 }
